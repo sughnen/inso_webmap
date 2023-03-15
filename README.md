@@ -1,2 +1,4 @@
 # inso_webmap
-Round table web map
+INSO round table QGIS web map
+## Date
+Created in March 2023
